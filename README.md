@@ -23,7 +23,15 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
 <br />
-## &#x1f4c8; Некоторые задачи по анализу данных
+
+## &#x1f4c8; Анализ данных на реальных проектах
+| Название проекта | Описание | Навыки и инструменты |
+|----------|----------|----------|
+| [Исследование объявлений о продаже квартир](https://github.com/faponmyskill/Portfolio/blob/main/Study%20of%20apartment%20sales%20ads/Study%20of%20apartment%20sales%20ads.ipynb)  | Определить основные тенденции рынка обществен, а также провести детальный анализ. Результатом работы является проведенный анализ и разработанные на его основе рекомендации. | `Python`, `Pandas`, `Matplotlibl` |
+| [Определение перспективного тарифа для телеком-компании](https://github.com/faponmyskill/Portfolio/blob/main/best_tarif/best_tarif.ipynb) | Проанализировав данные 500 пользователей "Мегалайна", были проанализированы и выявлены основные потербности пользователей в условиях тарифов "Смарт" и "Ультра" | `Pandas`, `Matplotlib`, `Seaborn`, `numpy`, `scipy`|
+
+
+## &#x1f4c8; Некоторые задачи по анализу данных в рамках Yandex Practicum
 | Название проекта | Описание | Навыки и инструменты |
 |----------|----------|----------|
 | [Исследование объявлений о продаже квартир](https://github.com/faponmyskill/Portfolio/blob/main/Study%20of%20apartment%20sales%20ads/Study%20of%20apartment%20sales%20ads.ipynb)  | Определить основные тенденции рынка обществен, а также провести детальный анализ. Результатом работы является проведенный анализ и разработанные на его основе рекомендации. | `Python`, `Pandas`, `Matplotlibl` |
