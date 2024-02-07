@@ -36,7 +36,9 @@
 |----------|----------|----------|
 | [Исследование объявлений о продаже квартир](https://github.com/faponmyskill/Portfolio/blob/main/Study%20of%20apartment%20sales%20ads/Study%20of%20apartment%20sales%20ads.ipynb)  | Определить основные тенденции рынка обществен, а также провести детальный анализ. Результатом работы является проведенный анализ и разработанные на его основе рекомендации. | `Python`, `Pandas`, `Matplotlibl` |
 | [Определение перспективного тарифа для телеком-компании](https://github.com/faponmyskill/Portfolio/blob/main/best_tarif/best_tarif.ipynb) | Проанализировав данные 500 пользователей "Мегалайна", были проанализированы и выявлены основные потербности пользователей в условиях тарифов "Смарт" и "Ультра" | `Pandas`, `Matplotlib`, `Seaborn`, `numpy`, `scipy`|
-
+| [Закономерности успешности](https://github.com/faponmyskill/Portfolio/blob/main/streamchik/games_analys_data.ipynb) | Выявить определяющие успешность игры закономерности | `Pandas`, `Matplotlib`,  `numpy`|
+| [Предсказание коэффициента восстановления золота](https://github.com/faponmyskill/Portfolio/blob/main/gold_recovery/gold_recovery.ipynb) | Модель должна предсказать коэффициент восстановления золота из золотосодержащей руды | `Pandas`, `Matplotlib`, `Seaborn`, `sklearn`|
+| [Исследовательский анализ данных промышленной задачи и построение модели, которая предскажет температуру стали](https://github.com/faponmyskill/Portfolio/blob/main/Modeling_of_an_industrial/modeling_of_an_indastrial.ipynb) | Исследовательский анализ данных промышленной задачи и построение модели, которая предскажет температуру стали| `Pandas`, `Matplotlib`, `Seaborn`, `numpy`, `catboost`, `sklearn`, `lightgbm`|
 
 
 <br />
