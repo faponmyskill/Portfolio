@@ -10,7 +10,7 @@
 
 
 ## Используемые библиотеки
-`Pandas`, `Matplotlib`, `Seaborn`, `numpy`, `scipy`
+`Pandas`, `Matplotlib`,  `numpy`
 
 ## Данные
 
