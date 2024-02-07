@@ -40,9 +40,9 @@
 | [Предсказание коэффициента восстановления золота](https://github.com/faponmyskill/Portfolio/blob/main/gold_recovery/gold_recovery.ipynb) | Модель должна предсказать коэффициент восстановления золота из золотосодержащей руды | `Pandas`, `Matplotlib`, `Seaborn`, `sklearn`|
 | [Исследовательский анализ данных промышленной задачи и построение модели, которая предскажет температуру стали](https://github.com/faponmyskill/Portfolio/blob/main/Modeling_of_an_industrial/modeling_of_an_indastrial.ipynb) | Исследовательский анализ данных промышленной задачи и построение модели, которая предскажет температуру стали| `Pandas`, `Matplotlib`, `Seaborn`, `numpy`, `catboost`, `sklearn`, `lightgbm`|
 
-
 <br />
-#### Читайте статьи с моим участием:<br />
+
+#### Читайте статьи с моим участием: <br />
 Я не веду личный блог, но имею хорошие дружественные ссылки, к которым вы можете бесплатно получить доступ. 
 
 <!-- BLOG-POST-LIST:START -->
