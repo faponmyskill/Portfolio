@@ -24,7 +24,7 @@
 1 Гб интернет-трафика: 150 рублей
 
 ## Используемые библиотеки
-`Pandas`, `Matplotlib`, `Seaborn`, `Folium`
+`Pandas`, `Matplotlib`, `Seaborn`, `numpy`, `scipy`
 
 ## Данные
 Датасет представлен следующими данными: 
